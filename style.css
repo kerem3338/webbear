@@ -1,0 +1,56 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+/*h1 {
+  font-style: Copperplate, Papyrus, fantasy;
+  color: #373fff;
+}*/
+
+button {
+  background-color: #5D6D7E;
+}
+
+.footer {
+        position: fixed;  
+        left: width=device-width;  
+        bottom: 5px;  
+        right: width=device-width;   
+        width: 95%;    
+        text-align: center;
+        background-color: DarkSalmon;
+        color: white;
+
+}
+.kutu {
+  text-align: center;
+  withd: 10;
+  height: 30;
+  border: 2px solid #000;
+  background-color: yellow;
+}
+
+.arsiv-adi {
+        width: 1100;
+        height: 100;
+        background-color: green;
+}
+
+h1 {
+    font-family: Ariel;
+}
+  
+.arsiv-listesi {
+    text-align: center;
+    width: 1100;
+    height: 1000;
+    background-color: green;
+    
+}
+
+strong {
+  color: black;
+}
